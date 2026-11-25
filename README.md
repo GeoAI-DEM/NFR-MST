@@ -5,9 +5,9 @@ correction using ICESat-2 ATL24. The model estimates the center-cell residual
 `GEBCO - ATL24` from six-channel terrain patches. Subtract the predicted residual
 from the original GEBCO elevation to obtain the corrected elevation.
 
-## Code and data availability
+## Data availability
 
-The source code and processed datasets of NFR-MST will be publicly released upon publication of the associated paper.
+The processed datasets used in this study will be made publicly available upon publication of the associated paper.
 
 ## Setup
 
